@@ -1,4 +1,4 @@
-export const APP_NAME = 'Launchpad';
+export const APP_NAME = 'Breadwinner';
 export const COHORT = 'Class of 2027';
 
 export const STATUSES = [
